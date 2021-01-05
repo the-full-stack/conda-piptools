@@ -1,0 +1,10 @@
+name: conda-piptools-sample-project
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - cudatoolkit=10.2
+  - cudnn=7.6
+  - pip
+  - pip:
+    - pip-tools

@@ -1,0 +1,5 @@
+# Production requirements
+
+numpy
+opencv-python-headless>=4.4
+torch
